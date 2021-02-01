@@ -46,5 +46,5 @@ security-organizations-jp
 ## 脅威・脆弱性情報
 
 - [JVN](https://jvn.jp/) - JPCERT/CCとIPAが共同で運営する脆弱性対策情報ポータルサイト
-- [NICTERWEB](https://www.nicter.jp/) - NICT内のサイバーセキュリティ研究室によるークネット観測結果
+- [NICTERWEB](https://www.nicter.jp/) - NICT内のサイバーセキュリティ研究室によるダークネット観測結果
 - [NOTICE](https://notice.go.jp/) - 総務省・NICT・インターネットプロバイダが連携し、IoT機器へのアクセスによる、サイバー攻撃に悪用されるおそれのある機器の調査及び当該機器の利用者への注意喚起を行う取組
