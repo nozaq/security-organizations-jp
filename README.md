@@ -23,6 +23,8 @@ security-organizations-jp
 - [JC3: 一般財団法人日本サイバー犯罪対策センター](https://www.jc3.or.jp/)
 - [JNSA: 特定非営利活動法人日本ネットワーク・セキュリティ協会](https://www.jnsa.org/)
 - [JPCERT/CC: 一般社団法人JPCERTコーディネーションセンター](https://www.jpcert.or.jp/)
+- [NCA: 日本シーサート協議会](https://www.nca.gr.jp/)
+- [OWASP Japan](https://owasp.org/www-chapter-japan/)
 - [SC3: サプライチェーン・サイバーセキュリティ・コンソーシアム](https://www.ipa.go.jp/security/keihatsu/sme/sc3/index.html)
 
 ### 業種ごとのISAC
