@@ -35,7 +35,7 @@ security-organizations-jp
 - [一般社団法人 金融ISAC](http://www.f-isac.jp/)
 - [一般社団法人 ICT-ISAC](https://www.ict-isac.jp/)
 - [電力ISAC](https://www.je-isac.jp/)
-- J-Auto ISAC(ウェブサイト不明)
+- [J-Auto ISAC](https://j-auto-isac.or.jp/)
 
 ## 報告・相談窓口
 
