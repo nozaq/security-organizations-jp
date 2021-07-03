@@ -31,11 +31,12 @@ security-organizations-jp
 
 業種ごとのISAC(Information Sharing and Analysis Center)です。自社が属する業種のものに入会することで会員企業間の情報共有に参加することができます。
 
+- [J-Auto ISAC](https://j-auto-isac.or.jp/)
 - [Software ISAC](https://www.csaj.jp/committee/security/softwareisac.html)
 - [一般社団法人 金融ISAC](http://www.f-isac.jp/)
 - [一般社団法人 ICT-ISAC](https://www.ict-isac.jp/)
+- [一般社団法人 医療ISAC](https://www.m-isac.jp/)
 - [電力ISAC](https://www.je-isac.jp/)
-- [J-Auto ISAC](https://j-auto-isac.or.jp/)
 
 ## 報告・相談窓口
 
