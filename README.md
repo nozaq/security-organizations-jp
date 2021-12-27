@@ -14,7 +14,6 @@ security-organizations-jp
 - [警察庁サイバー犯罪対策プロジェクト](https://www.npa.go.jp/cyber/)
 - [サイバーセキュリティ戦略本部](https://www.nisc.go.jp/conference/cs/)
 - [総務省 サイバーセキュリティタスクフォース](https://www.soumu.go.jp/main_sosiki/kenkyu/cybersecurity_taskforce/index.html)
-- [フィッシング対策協議会](https://www.antiphishing.jp/)
 
 ### 民間機関・団体
 
@@ -28,6 +27,7 @@ security-organizations-jp
 - [NCA: 日本シーサート協議会](https://www.nca.gr.jp/)
 - [OWASP Japan](https://owasp.org/www-chapter-japan/)
 - [SC3: サプライチェーン・サイバーセキュリティ・コンソーシアム](https://www.ipa.go.jp/security/keihatsu/sme/sc3/index.html)
+- [フィッシング対策協議会](https://www.antiphishing.jp/)
 
 ### 業種ごとのISAC
 
