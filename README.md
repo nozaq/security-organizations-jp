@@ -18,6 +18,8 @@ security-organizations-jp
 
 ### 民間機関・団体
 
+- [CSAJC: 日本クラウドセキュリティアライアンス]( https://www.cloudsecurityalliance.jp/site/)
+- [ISOG-J: 日本セキュリティオペレーション事業者協議会](https://isog-j.org/index.html)
 - [J-CRAT: サイバーレスキュー隊J-CRAT](https://www.ipa.go.jp/security/J-CRAT/index.html)
 - [J-CSIP: サイバー情報共有イニシアティブ](https://www.ipa.go.jp/security/J-CSIP/)
 - [JC3: 一般財団法人日本サイバー犯罪対策センター](https://www.jc3.or.jp/)
