@@ -27,6 +27,7 @@ security-organizations-jp
 - [NCA: 日本シーサート協議会](https://www.nca.gr.jp/)
 - [OWASP Japan](https://owasp.org/www-chapter-japan/)
 - [SC3: サプライチェーン・サイバーセキュリティ・コンソーシアム](https://www.ipa.go.jp/security/keihatsu/sme/sc3/index.html)
+- [SPREAD: 一般社団法人 セキュリティ対策推進協議会](https://www.spread.or.jp/)
 - [フィッシング対策協議会](https://www.antiphishing.jp/)
 
 ### 業種ごとのISAC
@@ -38,6 +39,7 @@ security-organizations-jp
 - [一般社団法人 金融ISAC](http://www.f-isac.jp/)
 - [一般社団法人 ICT-ISAC](https://www.ict-isac.jp/)
 - [一般社団法人 医療ISAC](https://www.m-isac.jp/)
+- [一般社団法人 交通ISAC](https://t-isac.or.jp/)
 - [電力ISAC](https://www.je-isac.jp/)
 
 ## 報告・相談窓口
